@@ -1,0 +1,22 @@
+{
+    "name": "alzughbieh/logs",
+    "description": "Show Activity users on website",
+    "type": "library",
+    "require": {
+        "php": ">=5.6",
+        "illuminate/support": ">=5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alzughbieh\\Logs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hamza.98",
+            "email": "hamza.alzughbieh@jusooor.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
